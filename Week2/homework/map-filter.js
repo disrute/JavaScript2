@@ -2,7 +2,7 @@
 
 function doubleOddNumbers(numbers) {
   // Replace this comment and the next line with your code
-  console.log(numbers);
+
 }
 
 const myNumbers = [1, 2, 3, 4];
